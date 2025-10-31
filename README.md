@@ -1,4 +1,4 @@
-# Exercice 3 : Créer un projet Java par exercice sous Eclipse, ex ici : « BaseEx3Loop »
+# Exercice 3 : Créer un projet Java par exercice sous Eclipse, ex ici : « Base-Ex-Loop »
 
 - 3.1 Trouvez le moyen de faire la même chose que dans l’exercice 2.3 sous Eclipse
 - 3.2 Que se passe-t-il si on saisit une valeur inattendue et comment régler ce problème ?
